@@ -1,24 +1,32 @@
-TÃ­tulo (30)
-===========
+Título:
 
-DescripciÃ³n breve (80)
-======================
+GUÍA OFICIAL DE COGOLLOS VEGA
 
-DescripciÃ³n completa (4000)
-===========================
 
-Etiquetas	
-===========
+Descripción breve:
 
-Notas de versiÃ³n
-=================
-VersiÃ³n inicial
+Guía con toda la información de interés de Cogollos Vega, mirador de Granada.
 
-****aÃ±adir algo aquÃ­ si se publica en forma de actualizaciÃ³n***
 
-Sitio web
-=========
+Descripción completa:
 
-Correo electrÃ³nico
-==================
+Se trata de una aplicación desarrollada por el Ayuntamiento de Cogollos Vega y pretende ser un canal más de información y comunicación entre el ciudadano y la Administración.
+
+La idea inicial de esta aplicación es ofrecer una guía en la que se pueda encontrar (a través de la geolocalización en un plano) la máxima información de Cogollos Vega desde una visión tanto general como detallada, que servirá en la vida cotidiana a todo aquel/ aquella vecino/a o visitante que se acerque a esta bella localidad.
+
+Esta guía es muy útil para moverse por sus calles y, de forma rápida y ágil, consultar las paradas de Taxis más cercanas, localizar y llamar a los teléfonos de urgencias y emergencias, centros de salud, restaurantes, colegios, guarderías, supermercados, organismos públicos, bancos, localizar cajeros automáticos, asociaciones, farmacias, así como conocer sus fiestas y costumbres, ocio, cultura, artesanía, monumentos y demás lugares de interés.
+
+Esta aplicación no solo indica la ubicación, sino que incluso, usando la tecnología GPS, guiará hasta el lugar solicitado e incluso ofrece la posibilidad de realizar llamadas o enviar correos electrónicos para contactar, así como visitar sus sitios web o redes sociales. 
+
+La aplicación dispone de un servicio "Cerca de mí" que usando la tecnología del GPS indicará todos los elementos de interés cercanos a los usuarios.
+
+El nombre de Cogollos hace referencia a cucullus que significa "situación sobre una colina" en latín y se arabizó bajo el nombre de Ququl(u)lus. La alquería árabe de Cogollos Vega estuvo adscrita al distrito de la Vega junto con Alhendín, Alfacar, Víznar y otras poblaciones, pero no podemos olvidar que en su término municipal existían otras cuatro alquerías: la de la Taucha, Lomilla de Vítar, Alcudia y el pago de las Taulas, de las que existen noticias al menos desde el siglo X.
+Cogollos ha estado ocupada por el ser humano desde el paleolítico medio, debido a su magnífica situación geográfica. Rodeada por dos ríos, con grandes zonas verdes y picos altos de la sierra que lleva su nombre, Cogollos ofreció siempre un lugar en el que poder cazar, pescar, protegerse y realizar labores agrícolas con facilidad.
+Al igual que el resto de alquerías del Reino de Granada, sufrieron las idas y venidas de la Reconquista y posterior política de repoblación. El resto de su historia está muy ligado a la de Granada, dada su proximidad y su situación geográfica a caballo entre la Vega y las estribaciones del Parque Natural de la Sierra de Huétor, con grandes masas de encinas y quejigos, magníficos paisajes y espléndidos espacios naturales donde disfrutar de la Naturaleza en toda su belleza y prodigio en sus numerosas rutas de senderismo y escalada. 
+En sus tierras se han encontrado restos neolíticos, argáricos, romanos, visigodos y por supuesto árabes, dando lugar hoy a cinco Bienes de Interés Cultural (BIC), que hacen las delicias de sus visitantes: una Atalaya árabe del s. XIV, un yacimiento y necrópolis neolíticos, Torre de vigilancia del s.XVI, Baños árabes del x. XII y el Catillejo. En su cerro más emblemático, el Peñón de la Mata, se situó un frente activo en la Guerra Civil del que sobreviven numerosas trincheras.
+En la actualidad, el Centro de Interpretación Cogollos Vega organiza y gestiona las visitas a sus lugares de interés, las rutas turísticas, talleres infantiles y de adultos, cursos, charlas… No dejéis de visitarlo y pedirles información!
+
+¡¡Os esperamos!!
+
+
 
